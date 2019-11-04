@@ -1,6 +1,6 @@
 # Webhealth Tracker - HOOQ Assignment Project
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://lh3.googleusercontent.com/YxtvsmF0hv-PsLys4Dh5yENFmVlbhJNp2L-cDyjdB-tiC5NQMBF25h3UuK5CNnghtgw=s180-rw" height=80 />
+<img src="https://lh3.googleusercontent.com/YxtvsmF0hv-PsLys4Dh5yENFmVlbhJNp2L-cDyjdB-tiC5NQMBF25h3UuK5CNnghtgw=s180-rw" height=80 />
 
 Created Using :
 
@@ -11,18 +11,18 @@ Created Using :
 
 2. `cd webhealth_tracker`
 
-3. Open client
-```
-cd client
-npm install
-npm start
-```
-
-4. Open server
+3. Open server
 ```
 cd server
 npm install
 npm start
 ```
 
-5. Open `http://localhost:8080` in browser
+4. Open client
+```
+cd client
+npm install
+npm start
+```
+
+5. See `http://localhost:8080` in browser
